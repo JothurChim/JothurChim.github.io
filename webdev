@@ -1,4 +1,4 @@
-~$ git clone https://github.com/JothurChim/jothurchim.github.io
+~$ git clone https://github.com/JothurChim/JothurChim.github.io
 ~$ cd JothurChim.github.io
 ~$ echo "Hello World" > index.html
 ~$ git add --all
