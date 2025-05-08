@@ -1,0 +1,7 @@
+---
+title: "About This Website"
+---
+
+This is a website I built using R. I learnt how to build this website with the aid of the University of Glasgow's "Data Skills for Reproducible Research" online textbook ([DeBruine et al., 2024](https://psyteachr.github.io/reprores-v4/)).
+
+I hope to build this website into something more. Perhaps a bit of personal branding!
