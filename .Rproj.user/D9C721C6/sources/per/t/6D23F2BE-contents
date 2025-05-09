@@ -1,0 +1,21 @@
+name: "Jothur's Webpage"  
+author: "Jothur Chim"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: 
+      version: 4
+      bootswatch: yeti
+    css:  style.css
+navbar:  
+  title: "Jothur's Webpage"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: academic.html
+    - text: "My CV"
+      href: cv.html
