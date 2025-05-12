@@ -13,7 +13,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Contact Me"
       href: about.html
     - text: "Research"
       href: academic.html
