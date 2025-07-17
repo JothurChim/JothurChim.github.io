@@ -16,14 +16,13 @@ I'm an aspiring psychologist with interests in language, mathematical cognition 
 _BSc(Hons) Psychology with work placement_  
 Sept 2024 -- Present  
 
-- First year grade average pending (as of 09-May-2025)
+- First year grade average: 70
 - Some modules I've taken:
-  - Mind, Brain and Behaviour
-  - Psychology Research Methods and Design 1
+  - Mind, Brain and Behaviour (87%)
+  - Psychology Research Methods and Design 1 (73%)
     - Received a mark of **80%** on my Quantitative Report 2, demonstrating ability to conduct novel research and present it effectively
-  - Controversies in Psychology
   - Applying Psychology (68%)
-  - Psychology of Wellbeing
+  - Psychology of Wellbeing (79%)
 
 **Queen Ethelburga's Collegiate**  
 _A Levels_  
@@ -63,8 +62,8 @@ enhancing my statistical literacy and criticality by working with a real large d
   - Took active part in the management of the mentorship programme.
   - Gave academic and career guidance to mentees in their A Level and GCSE studies in the field of psychology as a mentor.
   
-**Teaching Intern in Mathematics**
-_Redland Green School, Bristol_
+**Teaching Intern in Mathematics**  
+_Redland Green School, Bristol_  
 June 2025 -- July 2025
 
 - Assisted with the delivery of lessons from a wide range of year groups (Years 7–12) by   answering student queries, improving empathetic communication and understanding.
@@ -105,8 +104,6 @@ Feb 2025 - Apr 2025
 - I speak _three_ languages: Cantonese (L1), English (L2) and Mandarin (L3).
 
 - I know how to analyse datasets with R and SPSS.
-
-- I know what the general linear model is and its connections with traditional techniques for finding differences such as ANOVA.
 
 - I know how to use Microsoft Office and LaTeX.
 
