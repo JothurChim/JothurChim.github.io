@@ -4,6 +4,8 @@ title: "My CV"
 
 Here you can find all of my experiences. Some of these sections may not be on my CV due to page constraints.
 
+This page was last updated October 2025.
+
 ### Profile
 
 I'm an aspiring psychologist with interests in language, mathematical cognition and where they intersect. I aim to use quantitative methods where possible but I'm not afraid of using qualitative methods as well. I've had experience in charity work and hands-on research experience.
@@ -17,7 +19,7 @@ _BSc(Hons) Psychology with work placement_
 Sept 2024 -- Present  
 
 - First year grade average: 70
-- Some modules I've taken:
+- Modules taken:
   - Mind, Brain and Behaviour (87%)
   - Psychology Research Methods and Design 1 (73%)
     - Received a mark of **80%** on my Quantitative Report 2, demonstrating ability to conduct novel research and present it effectively
@@ -37,7 +39,7 @@ Sept 2022 -- June 2024
 
 **Research Apprentice**  
 _University of Bath, Department of Psychology_  
-Nov 2024 -- Present
+Nov 2024 -- June 2025
 
 - Assisted with a systematic review on the relationship between alexithymia and parenting behaviour,
 improving my skill to filter irrelevant data.
@@ -50,13 +52,11 @@ improving my skill to filter irrelevant data.
 _[Hong Kong Student Association (UK)](https://www.hksacic.co.uk/)_  
 Aug 2024 -- Present
 
-- I've been engaged in various roles in this organisation.
-
-- Prominents ones are my role as _Youth Development Officer_ and _Mentorship programme operations team member_.
+- I've been engaged in various roles in this organisation. Prominents ones are my role as _Youth Development Officer_ (2024-25) and _Mentorship programme operations team member_ (2024-26).
 - Youth Development Officer:
   - Authored articles on educational and career choices, improving my public communication skills.
   - Managed a subsidiary committee, building on my team and project management skills.
-  - **Lead data analyst** on research project investigating loneliness in the [Hong Kong BN(O)](https://www.gov.uk/british-national-overseas-bno-visa) community,
+  - **Lead data analyst and coordinator** on research project investigating loneliness in the [Hong Kong BN(O)](https://www.gov.uk/british-national-overseas-bno-visa) community,
 enhancing my statistical literacy and criticality by working with a real large dataset.
 - Mentorship programme operations team member
   - Took active part in the management of the mentorship programme.
@@ -75,7 +75,7 @@ June 2025 -- July 2025
 ### Projects
 
 **Investigating correlates of loneliness in Hong Kong BN(O) immigrants**  
-_Sept 2024 - Present_
+Sept 2024 -- Present
 
 - Investigated subjective loneliness and its correlates (e.g. cultural integration) in the [Hong Kong BN(O)](https://www.gov.uk/british-national-overseas-bno-visa) immigrant community in the UK.
 
@@ -91,7 +91,7 @@ I've also been volunteering as a part of the student community.
 
 **Language Peer Assisted Learning (PAL) Leader**  
 _University of Bath Student's Union_  
-Feb 2025 - Apr 2025  
+Feb 2025 -- Present
 
 - Facilitated PAL sessions in English for students whose first language is not English.
 
