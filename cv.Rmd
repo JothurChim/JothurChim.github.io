@@ -43,9 +43,7 @@ Nov 2024 -- June 2025
 
 - Assisted with a systematic review on the relationship between alexithymia and parenting behaviour,
 improving my skill to filter irrelevant data.
-
 - Engaged in transcription of interviews to validate a screening tool for adults with developmental language disorder, promoting welfare in the community and familarity with Jeffersonian transcription.
-
 - Operated eye-tracking equipment in a laboratory setting.
 
 **Various roles**  
@@ -78,9 +76,7 @@ June 2025 -- July 2025
 Sept 2024 -- Present
 
 - Investigated subjective loneliness and its correlates (e.g. cultural integration) in the [Hong Kong BN(O)](https://www.gov.uk/british-national-overseas-bno-visa) immigrant community in the UK.
-
 - Analysed dataset from questionnaire using correlational techniques.
-
 - Proposed suggestions to policymakers regarding what changes could be made to accommodate the community more in the UK.
 
 ---
@@ -94,7 +90,6 @@ _University of Bath Student's Union_
 Feb 2025 -- Present
 
 - Facilitated PAL sessions in English for students whose first language is not English.
-
 - Designed appropriate material for peers to engage in and to understand British culture and the nuances of the English Language, including the introduction of some sociolinguistic concepts such as the myth of the "standard accent".
 
 ---
@@ -102,11 +97,8 @@ Feb 2025 -- Present
 ### Skills
 
 - I speak _three_ languages: Cantonese (L1), English (L2) and Mandarin (L3).
-
 - I know how to analyse datasets with R and SPSS.
-
 - I know how to use Microsoft Office and LaTeX.
-
 - I built this website using R Markdown.
 
 ---
@@ -115,7 +107,6 @@ Feb 2025 -- Present
 
 - I have a side interest in linguistics since joining the [UK Linguistics Olympiad](https://www.uklo.org/) in Year 13.
   - I know some elementary linguistics concepts in fields such as phonology, syntax and semantics.
-
 - I also like to learn languages. I've started learning French at university and aim to work towards CEFR B2.
 
 ---
