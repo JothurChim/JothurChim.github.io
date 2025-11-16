@@ -19,3 +19,5 @@ navbar:
       href: academic.html
     - text: "My CV"
       href: cv.html
+    - text: "My resources"
+      href: resources.html

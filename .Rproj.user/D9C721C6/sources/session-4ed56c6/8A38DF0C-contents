@@ -4,7 +4,7 @@ title: "My CV"
 
 Here you can find all of my experiences. Some of these sections may not be on my CV due to page constraints.
 
-This page was last updated October 2025.
+This page was last updated ``r Sys.Date()``
 
 ### Profile
 
@@ -48,9 +48,9 @@ improving my skill to filter irrelevant data.
 
 **Various roles**  
 _[Hong Kong Student Association (UK)](https://www.hksacic.co.uk/)_  
-Aug 2024 -- Present
+Aug 2024 -- Nov 2025
 
-- I've been engaged in various roles in this organisation. Prominents ones are my role as _Youth Development Officer_ (2024-25) and _Mentorship programme operations team member_ (2024-26).
+- I've been engaged in various roles in this organisation. Prominents ones are my role as _Youth Development Officer_ (2024-25) and _Mentorship programme operations team member_ (2024-25).
 - Youth Development Officer:
   - Authored articles on educational and career choices, improving my public communication skills.
   - Managed a subsidiary committee, building on my team and project management skills.
@@ -100,6 +100,7 @@ Feb 2025 -- Present
 
 - Facilitated PAL sessions in English for students whose first language is not English.
 - Designed appropriate material for peers to engage in and to understand British culture and the nuances of the English Language, including the introduction of some sociolinguistic concepts such as the myth of the "standard accent".
+- Developed materials to practice Cantonese for heritage speakers and foreign learners, improving pedaogical awareness.
 
 ---
 
