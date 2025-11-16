@@ -13,11 +13,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Contact Me"
+    - text: "Contact me"
       href: about.html
     - text: "Research"
       href: academic.html
     - text: "My CV"
       href: cv.html
     - text: "My resources"
-      href: resources.html
+      menu:
+      - text: "Research methods"
+        href: rm.html
