@@ -1,5 +1,5 @@
 ---
-title: "rm"
+title: "Research methods"
 ---
 
 # What is this all about?
